@@ -1,0 +1,10 @@
+D:\TechPrakt2025Task0\KPZlab1\Kpzlab1.1\bin\Debug\Kpzlab1.1.exe.config
+D:\TechPrakt2025Task0\KPZlab1\Kpzlab1.1\bin\Debug\Kpzlab1.1.exe
+D:\TechPrakt2025Task0\KPZlab1\Kpzlab1.1\bin\Debug\Kpzlab1.1.pdb
+D:\TechPrakt2025Task0\KPZlab1\Kpzlab1.1\obj\Debug\Kpzlab1.1.csproj.AssemblyReference.cache
+D:\TechPrakt2025Task0\KPZlab1\Kpzlab1.1\obj\Debug\Kpzlab1.1.csproj.CoreCompileInputs.cache
+D:\TechPrakt2025Task0\KPZlab1\Kpzlab1.1\obj\Debug\Kpzlab1.1.exe
+D:\TechPrakt2025Task0\KPZlab1\Kpzlab1.1\obj\Debug\Kpzlab1.1.pdb
+D:\TechPrakt2025Task0\KPZlab1\Kpzlab1.1\bin\Debug\KPZlab1.dll
+D:\TechPrakt2025Task0\KPZlab1\Kpzlab1.1\bin\Debug\KPZlab1.pdb
+D:\TechPrakt2025Task0\KPZlab1\Kpzlab1.1\obj\Debug\Kpzlab1.1.csproj.Up2Date
