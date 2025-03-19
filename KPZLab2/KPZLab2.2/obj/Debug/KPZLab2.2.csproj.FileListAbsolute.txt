@@ -1,0 +1,10 @@
+D:\TechPrakt2025Task0\KPZLab2\KPZLab2.2\bin\Debug\KPZLab2.2.exe.config
+D:\TechPrakt2025Task0\KPZLab2\KPZLab2.2\bin\Debug\KPZLab2.2.exe
+D:\TechPrakt2025Task0\KPZLab2\KPZLab2.2\bin\Debug\KPZLab2.2.pdb
+D:\TechPrakt2025Task0\KPZLab2\KPZLab2.2\bin\Debug\KPZLab2.dll
+D:\TechPrakt2025Task0\KPZLab2\KPZLab2.2\bin\Debug\KPZLab2.pdb
+D:\TechPrakt2025Task0\KPZLab2\KPZLab2.2\obj\Debug\KPZLab2.2.csproj.AssemblyReference.cache
+D:\TechPrakt2025Task0\KPZLab2\KPZLab2.2\obj\Debug\KPZLab2.2.csproj.CoreCompileInputs.cache
+D:\TechPrakt2025Task0\KPZLab2\KPZLab2.2\obj\Debug\KPZLab2.2.csproj.Up2Date
+D:\TechPrakt2025Task0\KPZLab2\KPZLab2.2\obj\Debug\KPZLab2.2.exe
+D:\TechPrakt2025Task0\KPZLab2\KPZLab2.2\obj\Debug\KPZLab2.2.pdb

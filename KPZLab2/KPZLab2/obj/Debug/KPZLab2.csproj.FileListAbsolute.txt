@@ -1,0 +1,6 @@
+D:\TechPrakt2025Task0\KPZLab2\KPZLab2\bin\Debug\KPZLab2.dll
+D:\TechPrakt2025Task0\KPZLab2\KPZLab2\bin\Debug\KPZLab2.pdb
+D:\TechPrakt2025Task0\KPZLab2\KPZLab2\obj\Debug\KPZLab2.csproj.AssemblyReference.cache
+D:\TechPrakt2025Task0\KPZLab2\KPZLab2\obj\Debug\KPZLab2.csproj.CoreCompileInputs.cache
+D:\TechPrakt2025Task0\KPZLab2\KPZLab2\obj\Debug\KPZLab2.dll
+D:\TechPrakt2025Task0\KPZLab2\KPZLab2\obj\Debug\KPZLab2.pdb
