@@ -1,0 +1,12 @@
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryAgent\bin\Debug\net9.0\ClassLibraryAgent.deps.json
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryAgent\bin\Debug\net9.0\ClassLibraryAgent.dll
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryAgent\bin\Debug\net9.0\ClassLibraryAgent.pdb
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryAgent\obj\Debug\net9.0\ClassLibraryAgent.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryAgent\obj\Debug\net9.0\ClassLibraryAgent.AssemblyInfoInputs.cache
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryAgent\obj\Debug\net9.0\ClassLibraryAgent.AssemblyInfo.cs
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryAgent\obj\Debug\net9.0\ClassLibraryAgent.csproj.CoreCompileInputs.cache
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryAgent\obj\Debug\net9.0\ClassLibraryAgent.sourcelink.json
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryAgent\obj\Debug\net9.0\ClassLibraryAgent.dll
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryAgent\obj\Debug\net9.0\refint\ClassLibraryAgent.dll
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryAgent\obj\Debug\net9.0\ClassLibraryAgent.pdb
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryAgent\obj\Debug\net9.0\ref\ClassLibraryAgent.dll

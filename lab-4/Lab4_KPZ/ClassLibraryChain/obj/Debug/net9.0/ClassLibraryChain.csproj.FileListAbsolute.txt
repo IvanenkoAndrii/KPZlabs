@@ -1,0 +1,12 @@
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryChain\bin\Debug\net9.0\ClassLibraryChain.deps.json
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryChain\bin\Debug\net9.0\ClassLibraryChain.dll
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryChain\bin\Debug\net9.0\ClassLibraryChain.pdb
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryChain\obj\Debug\net9.0\ClassLibraryChain.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryChain\obj\Debug\net9.0\ClassLibraryChain.AssemblyInfoInputs.cache
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryChain\obj\Debug\net9.0\ClassLibraryChain.AssemblyInfo.cs
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryChain\obj\Debug\net9.0\ClassLibraryChain.csproj.CoreCompileInputs.cache
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryChain\obj\Debug\net9.0\ClassLibraryChain.sourcelink.json
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryChain\obj\Debug\net9.0\ClassLibraryChain.dll
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryChain\obj\Debug\net9.0\refint\ClassLibraryChain.dll
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryChain\obj\Debug\net9.0\ClassLibraryChain.pdb
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryChain\obj\Debug\net9.0\ref\ClassLibraryChain.dll

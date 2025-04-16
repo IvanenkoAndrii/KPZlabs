@@ -3,32 +3,104 @@
   "WorkspaceRootPath": "D:\\TechPrakt2025Task0\\KPZLab2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4032756B-9DCC-45AF-8746-3C156F83A62E}|KPZLab2.2\\KPZLab2.2.csproj|d:\\techprakt2025task0\\kpzlab2\\kpzlab2.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4032756B-9DCC-45AF-8746-3C156F83A62E}|KPZLab2.2\\KPZLab2.2.csproj|solutionrelative:kpzlab2.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|d:\\techprakt2025task0\\kpzlab2\\kpzlab2\\singelton\\authenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|solutionrelative:kpzlab2\\singelton\\authenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|d:\\techprakt2025task0\\kpzlab2\\kpzlab2\\builder\\characterdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|solutionrelative:kpzlab2\\builder\\characterdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|D:\\TechPrakt2025Task0\\KPZLab2\\kpzlab2\\prototype\\virus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|solutionrelative:kpzlab2\\prototype\\virus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|d:\\techprakt2025task0\\kpzlab2\\kpzlab2\\builder\\enemybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|solutionrelative:kpzlab2\\builder\\enemybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|d:\\techprakt2025task0\\kpzlab2\\kpzlab2\\factory method\\website.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|solutionrelative:kpzlab2\\factory method\\website.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|d:\\techprakt2025task0\\kpzlab2\\kpzlab2\\builder\\herobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|solutionrelative:kpzlab2\\builder\\herobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|d:\\techprakt2025task0\\kpzlab2\\kpzlab2\\factory method\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|solutionrelative:kpzlab2\\factory method\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|d:\\techprakt2025task0\\kpzlab2\\kpzlab2\\builder\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|solutionrelative:kpzlab2\\builder\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|d:\\techprakt2025task0\\kpzlab2\\kpzlab2\\factory method\\premiumsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|solutionrelative:kpzlab2\\factory method\\premiumsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|d:\\techprakt2025task0\\kpzlab2\\kpzlab2\\builder\\icharacterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|d:\\techprakt2025task0\\kpzlab2\\kpzlab2\\factory method\\mobileapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|solutionrelative:kpzlab2\\factory method\\mobileapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|d:\\techprakt2025task0\\kpzlab2\\kpzlab2\\factory method\\managercall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|solutionrelative:kpzlab2\\factory method\\managercall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|d:\\techprakt2025task0\\kpzlab2\\kpzlab2\\factory method\\isubscriptionpurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|solutionrelative:kpzlab2\\factory method\\isubscriptionpurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|d:\\techprakt2025task0\\kpzlab2\\kpzlab2\\factory method\\educationalsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|solutionrelative:kpzlab2\\factory method\\educationalsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|d:\\techprakt2025task0\\kpzlab2\\kpzlab2\\factory method\\domesticsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|solutionrelative:kpzlab2\\factory method\\domesticsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|D:\\TechPrakt2025Task0\\KPZLab2\\kpzlab2\\builder\\icharacterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|solutionrelative:kpzlab2\\builder\\icharacterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|d:\\techprakt2025task0\\kpzlab2\\kpzlab2\\prototype\\virus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|solutionrelative:kpzlab2\\prototype\\virus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|D:\\TechPrakt2025Task0\\KPZLab2\\kpzlab2\\builder\\herobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|solutionrelative:kpzlab2\\builder\\herobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|D:\\TechPrakt2025Task0\\KPZLab2\\kpzlab2\\builder\\enemybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|solutionrelative:kpzlab2\\builder\\enemybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|D:\\TechPrakt2025Task0\\KPZLab2\\kpzlab2\\builder\\characterdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|solutionrelative:kpzlab2\\builder\\characterdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|D:\\TechPrakt2025Task0\\KPZLab2\\kpzlab2\\builder\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|solutionrelative:kpzlab2\\builder\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|d:\\techprakt2025task0\\kpzlab2\\kpzlab2\\abstract factory\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|solutionrelative:kpzlab2\\abstract factory\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|d:\\techprakt2025task0\\kpzlab2\\kpzlab2\\abstract factory\\netbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|solutionrelative:kpzlab2\\abstract factory\\netbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|d:\\techprakt2025task0\\kpzlab2\\kpzlab2\\abstract factory\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|solutionrelative:kpzlab2\\abstract factory\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|d:\\techprakt2025task0\\kpzlab2\\kpzlab2\\abstract factory\\kiaomifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|solutionrelative:kpzlab2\\abstract factory\\kiaomifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|d:\\techprakt2025task0\\kpzlab2\\kpzlab2\\abstract factory\\ipronefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|solutionrelative:kpzlab2\\abstract factory\\ipronefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|d:\\techprakt2025task0\\kpzlab2\\kpzlab2\\abstract factory\\idevicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|solutionrelative:kpzlab2\\abstract factory\\idevicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|d:\\techprakt2025task0\\kpzlab2\\kpzlab2\\abstract factory\\idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|solutionrelative:kpzlab2\\abstract factory\\idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|d:\\techprakt2025task0\\kpzlab2\\kpzlab2\\abstract factory\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|solutionrelative:kpzlab2\\abstract factory\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|d:\\techprakt2025task0\\kpzlab2\\kpzlab2\\abstract factory\\balaxyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A420C3F2-D7D4-49FA-AC6C-57D4D6D91BC8}|KPZLab2\\KPZLab2.csproj|solutionrelative:kpzlab2\\abstract factory\\balaxyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4032756B-9DCC-45AF-8746-3C156F83A62E}|KPZLab2.2\\KPZLab2.2.csproj|d:\\techprakt2025task0\\kpzlab2\\kpzlab2.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4032756B-9DCC-45AF-8746-3C156F83A62E}|KPZLab2.2\\KPZLab2.2.csproj|solutionrelative:kpzlab2.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,17 +110,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2.2\\Program.cs",
               "RelativeDocumentMoniker": "KPZLab2.2\\Program.cs",
               "ToolTip": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2.2\\Program.cs",
               "RelativeToolTip": "KPZLab2.2\\Program.cs",
-              "ViewState": "AgIAAJMAAAAAAAAAAAAqwPkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAPUAAAAAAAAAAAAcwPsAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T14:33:27.53Z",
               "IsPinned": true,
@@ -56,7 +128,241 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Authenticator.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Singelton\\Authenticator.cs",
+              "RelativeDocumentMoniker": "KPZLab2\\Singelton\\Authenticator.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Singelton\\Authenticator.cs",
+              "RelativeToolTip": "KPZLab2\\Singelton\\Authenticator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T13:27:31.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebSite.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Factory method\\WebSite.cs",
+              "RelativeDocumentMoniker": "KPZLab2\\Factory method\\WebSite.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Factory method\\WebSite.cs",
+              "RelativeToolTip": "KPZLab2\\Factory method\\WebSite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T13:27:28.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Subscription.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Factory method\\Subscription.cs",
+              "RelativeDocumentMoniker": "KPZLab2\\Factory method\\Subscription.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Factory method\\Subscription.cs",
+              "RelativeToolTip": "KPZLab2\\Factory method\\Subscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T13:27:27.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PremiumSubscription.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Factory method\\PremiumSubscription.cs",
+              "RelativeDocumentMoniker": "KPZLab2\\Factory method\\PremiumSubscription.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Factory method\\PremiumSubscription.cs",
+              "RelativeToolTip": "KPZLab2\\Factory method\\PremiumSubscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T13:27:26.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MobileApp.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Factory method\\MobileApp.cs",
+              "RelativeDocumentMoniker": "KPZLab2\\Factory method\\MobileApp.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Factory method\\MobileApp.cs",
+              "RelativeToolTip": "KPZLab2\\Factory method\\MobileApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T13:27:25.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManagerCall.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Factory method\\ManagerCall.cs",
+              "RelativeDocumentMoniker": "KPZLab2\\Factory method\\ManagerCall.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Factory method\\ManagerCall.cs",
+              "RelativeToolTip": "KPZLab2\\Factory method\\ManagerCall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T13:27:25.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ISubscriptionPurchase.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Factory method\\ISubscriptionPurchase.cs",
+              "RelativeDocumentMoniker": "KPZLab2\\Factory method\\ISubscriptionPurchase.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Factory method\\ISubscriptionPurchase.cs",
+              "RelativeToolTip": "KPZLab2\\Factory method\\ISubscriptionPurchase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T13:27:24.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EducationalSubscription.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Factory method\\EducationalSubscription.cs",
+              "RelativeDocumentMoniker": "KPZLab2\\Factory method\\EducationalSubscription.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Factory method\\EducationalSubscription.cs",
+              "RelativeToolTip": "KPZLab2\\Factory method\\EducationalSubscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T13:27:23.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DomesticSubscription.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Factory method\\DomesticSubscription.cs",
+              "RelativeDocumentMoniker": "KPZLab2\\Factory method\\DomesticSubscription.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Factory method\\DomesticSubscription.cs",
+              "RelativeToolTip": "KPZLab2\\Factory method\\DomesticSubscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T13:27:22.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Smartphone.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Abstract factory\\Smartphone.cs",
+              "RelativeDocumentMoniker": "KPZLab2\\Abstract factory\\Smartphone.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Abstract factory\\Smartphone.cs",
+              "RelativeToolTip": "KPZLab2\\Abstract factory\\Smartphone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T13:27:15.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Netbook.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Abstract factory\\Netbook.cs",
+              "RelativeDocumentMoniker": "KPZLab2\\Abstract factory\\Netbook.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Abstract factory\\Netbook.cs",
+              "RelativeToolTip": "KPZLab2\\Abstract factory\\Netbook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T13:27:14.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Abstract factory\\Laptop.cs",
+              "RelativeDocumentMoniker": "KPZLab2\\Abstract factory\\Laptop.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Abstract factory\\Laptop.cs",
+              "RelativeToolTip": "KPZLab2\\Abstract factory\\Laptop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T13:27:13.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "KiaomiFactory.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Abstract factory\\KiaomiFactory.cs",
+              "RelativeDocumentMoniker": "KPZLab2\\Abstract factory\\KiaomiFactory.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Abstract factory\\KiaomiFactory.cs",
+              "RelativeToolTip": "KPZLab2\\Abstract factory\\KiaomiFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T13:27:13.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IProneFactory.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Abstract factory\\IProneFactory.cs",
+              "RelativeDocumentMoniker": "KPZLab2\\Abstract factory\\IProneFactory.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Abstract factory\\IProneFactory.cs",
+              "RelativeToolTip": "KPZLab2\\Abstract factory\\IProneFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T13:27:12.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IDeviceFactory.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Abstract factory\\IDeviceFactory.cs",
+              "RelativeDocumentMoniker": "KPZLab2\\Abstract factory\\IDeviceFactory.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Abstract factory\\IDeviceFactory.cs",
+              "RelativeToolTip": "KPZLab2\\Abstract factory\\IDeviceFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T13:27:11.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IDevice.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Abstract factory\\IDevice.cs",
+              "RelativeDocumentMoniker": "KPZLab2\\Abstract factory\\IDevice.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Abstract factory\\IDevice.cs",
+              "RelativeToolTip": "KPZLab2\\Abstract factory\\IDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T13:27:10.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EBook.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Abstract factory\\EBook.cs",
+              "RelativeDocumentMoniker": "KPZLab2\\Abstract factory\\EBook.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Abstract factory\\EBook.cs",
+              "RelativeToolTip": "KPZLab2\\Abstract factory\\EBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T13:27:09.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BalaxyFactory.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Abstract factory\\BalaxyFactory.cs",
+              "RelativeDocumentMoniker": "KPZLab2\\Abstract factory\\BalaxyFactory.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Abstract factory\\BalaxyFactory.cs",
+              "RelativeToolTip": "KPZLab2\\Abstract factory\\BalaxyFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T13:27:07.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "CharacterDirector.cs",
               "DocumentMoniker": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Builder\\CharacterDirector.cs",
               "RelativeDocumentMoniker": "KPZLab2\\Builder\\CharacterDirector.cs",
@@ -69,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "EnemyBuilder.cs",
               "DocumentMoniker": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Builder\\EnemyBuilder.cs",
               "RelativeDocumentMoniker": "KPZLab2\\Builder\\EnemyBuilder.cs",
@@ -82,7 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "HeroBuilder.cs",
               "DocumentMoniker": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Builder\\HeroBuilder.cs",
               "RelativeDocumentMoniker": "KPZLab2\\Builder\\HeroBuilder.cs",
@@ -95,20 +401,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "Character.cs",
               "DocumentMoniker": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Builder\\Character.cs",
               "RelativeDocumentMoniker": "KPZLab2\\Builder\\Character.cs",
               "ToolTip": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Builder\\Character.cs",
               "RelativeToolTip": "KPZLab2\\Builder\\Character.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwAwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T12:20:55.351Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "ICharacterBuilder.cs",
               "DocumentMoniker": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Builder\\ICharacterBuilder.cs",
               "RelativeDocumentMoniker": "KPZLab2\\Builder\\ICharacterBuilder.cs",
@@ -121,7 +427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Virus.cs",
               "DocumentMoniker": "D:\\TechPrakt2025Task0\\KPZLab2\\KPZLab2\\Prototype\\Virus.cs",
               "RelativeDocumentMoniker": "KPZLab2\\Prototype\\Virus.cs",

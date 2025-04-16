@@ -1,0 +1,12 @@
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryComposite\bin\Debug\net9.0\ClassLibraryComposite.deps.json
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryComposite\bin\Debug\net9.0\ClassLibraryComposite.dll
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryComposite\bin\Debug\net9.0\ClassLibraryComposite.pdb
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryComposite\obj\Debug\net9.0\ClassLibraryComposite.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryComposite\obj\Debug\net9.0\ClassLibraryComposite.AssemblyInfoInputs.cache
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryComposite\obj\Debug\net9.0\ClassLibraryComposite.AssemblyInfo.cs
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryComposite\obj\Debug\net9.0\ClassLibraryComposite.csproj.CoreCompileInputs.cache
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryComposite\obj\Debug\net9.0\ClassLibraryComposite.sourcelink.json
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryComposite\obj\Debug\net9.0\ClassLibraryComposite.dll
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryComposite\obj\Debug\net9.0\refint\ClassLibraryComposite.dll
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryComposite\obj\Debug\net9.0\ClassLibraryComposite.pdb
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryComposite\obj\Debug\net9.0\ref\ClassLibraryComposite.dll

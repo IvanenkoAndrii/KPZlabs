@@ -1,0 +1,12 @@
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryStrategy\bin\Debug\net9.0\ClassLibraryStrategy.deps.json
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryStrategy\bin\Debug\net9.0\ClassLibraryStrategy.dll
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryStrategy\bin\Debug\net9.0\ClassLibraryStrategy.pdb
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryStrategy\obj\Debug\net9.0\ClassLibraryStrategy.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryStrategy\obj\Debug\net9.0\ClassLibraryStrategy.AssemblyInfoInputs.cache
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryStrategy\obj\Debug\net9.0\ClassLibraryStrategy.AssemblyInfo.cs
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryStrategy\obj\Debug\net9.0\ClassLibraryStrategy.csproj.CoreCompileInputs.cache
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryStrategy\obj\Debug\net9.0\ClassLibraryStrategy.sourcelink.json
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryStrategy\obj\Debug\net9.0\ClassLibraryStrategy.dll
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryStrategy\obj\Debug\net9.0\refint\ClassLibraryStrategy.dll
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryStrategy\obj\Debug\net9.0\ClassLibraryStrategy.pdb
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryStrategy\obj\Debug\net9.0\ref\ClassLibraryStrategy.dll

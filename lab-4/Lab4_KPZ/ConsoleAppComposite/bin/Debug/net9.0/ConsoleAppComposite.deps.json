@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ConsoleAppComposite/1.0.0": {
+        "dependencies": {
+          "ClassLibraryComposite": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleAppComposite.dll": {}
+        }
+      },
+      "ClassLibraryComposite/1.0.0": {
+        "runtime": {
+          "ClassLibraryComposite.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppComposite/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryComposite/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

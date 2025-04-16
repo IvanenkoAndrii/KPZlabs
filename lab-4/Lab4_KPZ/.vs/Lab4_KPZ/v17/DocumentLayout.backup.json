@@ -1,0 +1,512 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4ACF911-5DF7-4C66-B344-BC46DBF882D2}|ConsoleAppMemento\\ConsoleAppMemento.csproj|d:\\techprakt2025task0\\lab-4\\lab4_kpz\\consoleappmemento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4ACF911-5DF7-4C66-B344-BC46DBF882D2}|ConsoleAppMemento\\ConsoleAppMemento.csproj|solutionrelative:consoleappmemento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5F26B4-59EE-4ACF-BEE3-38CC162513A6}|ClassLibraryMemento\\ClassLibraryMemento.csproj|d:\\techprakt2025task0\\lab-4\\lab4_kpz\\classlibrarymemento\\texteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5F26B4-59EE-4ACF-BEE3-38CC162513A6}|ClassLibraryMemento\\ClassLibraryMemento.csproj|solutionrelative:classlibrarymemento\\texteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5F26B4-59EE-4ACF-BEE3-38CC162513A6}|ClassLibraryMemento\\ClassLibraryMemento.csproj|d:\\techprakt2025task0\\lab-4\\lab4_kpz\\classlibrarymemento\\textdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5F26B4-59EE-4ACF-BEE3-38CC162513A6}|ClassLibraryMemento\\ClassLibraryMemento.csproj|solutionrelative:classlibrarymemento\\textdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5F26B4-59EE-4ACF-BEE3-38CC162513A6}|ClassLibraryMemento\\ClassLibraryMemento.csproj|d:\\techprakt2025task0\\lab-4\\lab4_kpz\\classlibrarymemento\\documentomemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5F26B4-59EE-4ACF-BEE3-38CC162513A6}|ClassLibraryMemento\\ClassLibraryMemento.csproj|solutionrelative:classlibrarymemento\\documentomemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5016FED2-1859-4E0B-9BF3-22FA82C2CBF8}|ConsoleAppStrategy\\ConsoleAppStrategy.csproj|d:\\techprakt2025task0\\lab-4\\lab4_kpz\\consoleappstrategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5016FED2-1859-4E0B-9BF3-22FA82C2CBF8}|ConsoleAppStrategy\\ConsoleAppStrategy.csproj|solutionrelative:consoleappstrategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C9C5F8-A245-4590-977D-441959864731}|ClassLibraryStrategy\\ClassLibraryStrategy.csproj|d:\\techprakt2025task0\\lab-4\\lab4_kpz\\classlibrarystrategy\\urlimageloadingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C9C5F8-A245-4590-977D-441959864731}|ClassLibraryStrategy\\ClassLibraryStrategy.csproj|solutionrelative:classlibrarystrategy\\urlimageloadingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C9C5F8-A245-4590-977D-441959864731}|ClassLibraryStrategy\\ClassLibraryStrategy.csproj|d:\\techprakt2025task0\\lab-4\\lab4_kpz\\classlibrarystrategy\\packages.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A5C9C5F8-A245-4590-977D-441959864731}|ClassLibraryStrategy\\ClassLibraryStrategy.csproj|solutionrelative:classlibrarystrategy\\packages.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C9C5F8-A245-4590-977D-441959864731}|ClassLibraryStrategy\\ClassLibraryStrategy.csproj|d:\\techprakt2025task0\\lab-4\\lab4_kpz\\classlibrarystrategy\\packages.config||{68B46364-D378-42F2-9E72-37D86C5F4468}",
+      "RelativeMoniker": "D:0:0:{A5C9C5F8-A245-4590-977D-441959864731}|ClassLibraryStrategy\\ClassLibraryStrategy.csproj|solutionrelative:classlibrarystrategy\\packages.config||{68B46364-D378-42F2-9E72-37D86C5F4468}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C9C5F8-A245-4590-977D-441959864731}|ClassLibraryStrategy\\ClassLibraryStrategy.csproj|d:\\techprakt2025task0\\lab-4\\lab4_kpz\\classlibrarystrategy\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C9C5F8-A245-4590-977D-441959864731}|ClassLibraryStrategy\\ClassLibraryStrategy.csproj|solutionrelative:classlibrarystrategy\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C9C5F8-A245-4590-977D-441959864731}|ClassLibraryStrategy\\ClassLibraryStrategy.csproj|d:\\techprakt2025task0\\lab-4\\lab4_kpz\\classlibrarystrategy\\iimageloadingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C9C5F8-A245-4590-977D-441959864731}|ClassLibraryStrategy\\ClassLibraryStrategy.csproj|solutionrelative:classlibrarystrategy\\iimageloadingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C9C5F8-A245-4590-977D-441959864731}|ClassLibraryStrategy\\ClassLibraryStrategy.csproj|d:\\techprakt2025task0\\lab-4\\lab4_kpz\\classlibrarystrategy\\fileimageloadingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C9C5F8-A245-4590-977D-441959864731}|ClassLibraryStrategy\\ClassLibraryStrategy.csproj|solutionrelative:classlibrarystrategy\\fileimageloadingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C9C5F8-A245-4590-977D-441959864731}|ClassLibraryStrategy\\ClassLibraryStrategy.csproj|d:\\techprakt2025task0\\lab-4\\lab4_kpz\\classlibrarystrategy\\classlibrarystrategy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A5C9C5F8-A245-4590-977D-441959864731}|ClassLibraryStrategy\\ClassLibraryStrategy.csproj|solutionrelative:classlibrarystrategy\\classlibrarystrategy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A976DD5B-B0EA-4DBA-B877-0A4735E7E7E8}|ConsoleAppComposite\\ConsoleAppComposite.csproj|d:\\techprakt2025task0\\lab-4\\lab4_kpz\\consoleappcomposite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A976DD5B-B0EA-4DBA-B877-0A4735E7E7E8}|ConsoleAppComposite\\ConsoleAppComposite.csproj|solutionrelative:consoleappcomposite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064152EA-93F9-4CE7-A3A6-CEE7E911CD5E}|ClassLibraryComposite\\ClassLibraryComposite.csproj|d:\\techprakt2025task0\\lab-4\\lab4_kpz\\classlibrarycomposite\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064152EA-93F9-4CE7-A3A6-CEE7E911CD5E}|ClassLibraryComposite\\ClassLibraryComposite.csproj|solutionrelative:classlibrarycomposite\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064152EA-93F9-4CE7-A3A6-CEE7E911CD5E}|ClassLibraryComposite\\ClassLibraryComposite.csproj|d:\\techprakt2025task0\\lab-4\\lab4_kpz\\classlibrarycomposite\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064152EA-93F9-4CE7-A3A6-CEE7E911CD5E}|ClassLibraryComposite\\ClassLibraryComposite.csproj|solutionrelative:classlibrarycomposite\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064152EA-93F9-4CE7-A3A6-CEE7E911CD5E}|ClassLibraryComposite\\ClassLibraryComposite.csproj|d:\\techprakt2025task0\\lab-4\\lab4_kpz\\classlibrarycomposite\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064152EA-93F9-4CE7-A3A6-CEE7E911CD5E}|ClassLibraryComposite\\ClassLibraryComposite.csproj|solutionrelative:classlibrarycomposite\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064152EA-93F9-4CE7-A3A6-CEE7E911CD5E}|ClassLibraryComposite\\ClassLibraryComposite.csproj|d:\\techprakt2025task0\\lab-4\\lab4_kpz\\classlibrarycomposite\\eventlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064152EA-93F9-4CE7-A3A6-CEE7E911CD5E}|ClassLibraryComposite\\ClassLibraryComposite.csproj|solutionrelative:classlibrarycomposite\\eventlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7A14C1-B83F-4B71-9FE9-E5A37C6A4D34}|ConsoleAppAgent\\ConsoleAppAgent.csproj|d:\\techprakt2025task0\\lab-4\\lab4_kpz\\consoleappagent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7A14C1-B83F-4B71-9FE9-E5A37C6A4D34}|ConsoleAppAgent\\ConsoleAppAgent.csproj|solutionrelative:consoleappagent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CC1EFA-2C34-439F-A415-6954A7C53E34}|ClassLibraryAgent\\ClassLibraryAgent.csproj|d:\\techprakt2025task0\\lab-4\\lab4_kpz\\classlibraryagent\\runway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CC1EFA-2C34-439F-A415-6954A7C53E34}|ClassLibraryAgent\\ClassLibraryAgent.csproj|solutionrelative:classlibraryagent\\runway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CC1EFA-2C34-439F-A415-6954A7C53E34}|ClassLibraryAgent\\ClassLibraryAgent.csproj|d:\\techprakt2025task0\\lab-4\\lab4_kpz\\classlibraryagent\\imediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CC1EFA-2C34-439F-A415-6954A7C53E34}|ClassLibraryAgent\\ClassLibraryAgent.csproj|solutionrelative:classlibraryagent\\imediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CC1EFA-2C34-439F-A415-6954A7C53E34}|ClassLibraryAgent\\ClassLibraryAgent.csproj|d:\\techprakt2025task0\\lab-4\\lab4_kpz\\classlibraryagent\\commandcentre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CC1EFA-2C34-439F-A415-6954A7C53E34}|ClassLibraryAgent\\ClassLibraryAgent.csproj|solutionrelative:classlibraryagent\\commandcentre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CC1EFA-2C34-439F-A415-6954A7C53E34}|ClassLibraryAgent\\ClassLibraryAgent.csproj|d:\\techprakt2025task0\\lab-4\\lab4_kpz\\classlibraryagent\\aircraft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CC1EFA-2C34-439F-A415-6954A7C53E34}|ClassLibraryAgent\\ClassLibraryAgent.csproj|solutionrelative:classlibraryagent\\aircraft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A21DAAC-F512-4E58-99FD-FF6404CE7F5C}|ConsoleAppChain\\ConsoleAppChain.csproj|d:\\techprakt2025task0\\lab-4\\lab4_kpz\\consoleappchain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A21DAAC-F512-4E58-99FD-FF6404CE7F5C}|ConsoleAppChain\\ConsoleAppChain.csproj|solutionrelative:consoleappchain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B73D8EC-FF51-4F26-B534-E2E839B5E978}|ClassLibraryChain\\ClassLibraryChain.csproj|d:\\techprakt2025task0\\lab-4\\lab4_kpz\\classlibrarychain\\thirdlevelsupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B73D8EC-FF51-4F26-B534-E2E839B5E978}|ClassLibraryChain\\ClassLibraryChain.csproj|solutionrelative:classlibrarychain\\thirdlevelsupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B73D8EC-FF51-4F26-B534-E2E839B5E978}|ClassLibraryChain\\ClassLibraryChain.csproj|d:\\techprakt2025task0\\lab-4\\lab4_kpz\\classlibrarychain\\supportsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B73D8EC-FF51-4F26-B534-E2E839B5E978}|ClassLibraryChain\\ClassLibraryChain.csproj|solutionrelative:classlibrarychain\\supportsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B73D8EC-FF51-4F26-B534-E2E839B5E978}|ClassLibraryChain\\ClassLibraryChain.csproj|d:\\techprakt2025task0\\lab-4\\lab4_kpz\\classlibrarychain\\supporthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B73D8EC-FF51-4F26-B534-E2E839B5E978}|ClassLibraryChain\\ClassLibraryChain.csproj|solutionrelative:classlibrarychain\\supporthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B73D8EC-FF51-4F26-B534-E2E839B5E978}|ClassLibraryChain\\ClassLibraryChain.csproj|d:\\techprakt2025task0\\lab-4\\lab4_kpz\\classlibrarychain\\secondlevelsupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B73D8EC-FF51-4F26-B534-E2E839B5E978}|ClassLibraryChain\\ClassLibraryChain.csproj|solutionrelative:classlibrarychain\\secondlevelsupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B73D8EC-FF51-4F26-B534-E2E839B5E978}|ClassLibraryChain\\ClassLibraryChain.csproj|d:\\techprakt2025task0\\lab-4\\lab4_kpz\\classlibrarychain\\fourthlevelsupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B73D8EC-FF51-4F26-B534-E2E839B5E978}|ClassLibraryChain\\ClassLibraryChain.csproj|solutionrelative:classlibrarychain\\fourthlevelsupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B73D8EC-FF51-4F26-B534-E2E839B5E978}|ClassLibraryChain\\ClassLibraryChain.csproj|d:\\techprakt2025task0\\lab-4\\lab4_kpz\\classlibrarychain\\firstlevelsupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B73D8EC-FF51-4F26-B534-E2E839B5E978}|ClassLibraryChain\\ClassLibraryChain.csproj|solutionrelative:classlibrarychain\\firstlevelsupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ConsoleAppMemento\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppMemento\\Program.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ConsoleAppMemento\\Program.cs",
+              "RelativeToolTip": "ConsoleAppMemento\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:52:09.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextEditor.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryMemento\\TextEditor.cs",
+              "RelativeDocumentMoniker": "ClassLibraryMemento\\TextEditor.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryMemento\\TextEditor.cs",
+              "RelativeToolTip": "ClassLibraryMemento\\TextEditor.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:51:25.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TextDocument.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryMemento\\TextDocument.cs",
+              "RelativeDocumentMoniker": "ClassLibraryMemento\\TextDocument.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryMemento\\TextDocument.cs",
+              "RelativeToolTip": "ClassLibraryMemento\\TextDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:50:58.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DocumentoMemento.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryMemento\\DocumentoMemento.cs",
+              "RelativeDocumentMoniker": "ClassLibraryMemento\\DocumentoMemento.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryMemento\\DocumentoMemento.cs",
+              "RelativeToolTip": "ClassLibraryMemento\\DocumentoMemento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:50:19.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ConsoleAppStrategy\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppStrategy\\Program.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ConsoleAppStrategy\\Program.cs",
+              "RelativeToolTip": "ConsoleAppStrategy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:42:37.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UrlImageLoadingStrategy.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryStrategy\\UrlImageLoadingStrategy.cs",
+              "RelativeDocumentMoniker": "ClassLibraryStrategy\\UrlImageLoadingStrategy.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryStrategy\\UrlImageLoadingStrategy.cs",
+              "RelativeToolTip": "ClassLibraryStrategy\\UrlImageLoadingStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:41:59.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryStrategy\\packages.config",
+              "RelativeDocumentMoniker": "ClassLibraryStrategy\\packages.config",
+              "ToolTip": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryStrategy\\packages.config",
+              "RelativeToolTip": "ClassLibraryStrategy\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-14T13:41:11.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryStrategy\\packages.config",
+              "RelativeDocumentMoniker": "ClassLibraryStrategy\\packages.config",
+              "ToolTip": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryStrategy\\packages.config",
+              "RelativeToolTip": "ClassLibraryStrategy\\packages.config",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-14T13:40:47.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Image.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryStrategy\\Image.cs",
+              "RelativeDocumentMoniker": "ClassLibraryStrategy\\Image.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryStrategy\\Image.cs",
+              "RelativeToolTip": "ClassLibraryStrategy\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:39:36.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IImageLoadingStrategy.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryStrategy\\IImageLoadingStrategy.cs",
+              "RelativeDocumentMoniker": "ClassLibraryStrategy\\IImageLoadingStrategy.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryStrategy\\IImageLoadingStrategy.cs",
+              "RelativeToolTip": "ClassLibraryStrategy\\IImageLoadingStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:39:04.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClassLibraryStrategy",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryStrategy\\ClassLibraryStrategy.csproj",
+              "RelativeDocumentMoniker": "ClassLibraryStrategy\\ClassLibraryStrategy.csproj",
+              "ToolTip": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryStrategy\\ClassLibraryStrategy.csproj",
+              "RelativeToolTip": "ClassLibraryStrategy\\ClassLibraryStrategy.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-14T13:38:08.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FileImageLoadingStrategy.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryStrategy\\FileImageLoadingStrategy.cs",
+              "RelativeDocumentMoniker": "ClassLibraryStrategy\\FileImageLoadingStrategy.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryStrategy\\FileImageLoadingStrategy.cs",
+              "RelativeToolTip": "ClassLibraryStrategy\\FileImageLoadingStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:37:45.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ConsoleAppComposite\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppComposite\\Program.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ConsoleAppComposite\\Program.cs",
+              "RelativeToolTip": "ConsoleAppComposite\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:34:17.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LightTextNode.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryComposite\\LightTextNode.cs",
+              "RelativeDocumentMoniker": "ClassLibraryComposite\\LightTextNode.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryComposite\\LightTextNode.cs",
+              "RelativeToolTip": "ClassLibraryComposite\\LightTextNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:31:49.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LightNode.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryComposite\\LightNode.cs",
+              "RelativeDocumentMoniker": "ClassLibraryComposite\\LightNode.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryComposite\\LightNode.cs",
+              "RelativeToolTip": "ClassLibraryComposite\\LightNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:31:31.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LightElementNode.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryComposite\\LightElementNode.cs",
+              "RelativeDocumentMoniker": "ClassLibraryComposite\\LightElementNode.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryComposite\\LightElementNode.cs",
+              "RelativeToolTip": "ClassLibraryComposite\\LightElementNode.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAUwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:30:35.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EventListener.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryComposite\\EventListener.cs",
+              "RelativeDocumentMoniker": "ClassLibraryComposite\\EventListener.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryComposite\\EventListener.cs",
+              "RelativeToolTip": "ClassLibraryComposite\\EventListener.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:30:00.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ConsoleAppAgent\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppAgent\\Program.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ConsoleAppAgent\\Program.cs",
+              "RelativeToolTip": "ConsoleAppAgent\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:20:45.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Runway.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryAgent\\Runway.cs",
+              "RelativeDocumentMoniker": "ClassLibraryAgent\\Runway.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryAgent\\Runway.cs",
+              "RelativeToolTip": "ClassLibraryAgent\\Runway.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:20:00.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IMediator.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryAgent\\IMediator.cs",
+              "RelativeDocumentMoniker": "ClassLibraryAgent\\IMediator.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryAgent\\IMediator.cs",
+              "RelativeToolTip": "ClassLibraryAgent\\IMediator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:19:37.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CommandCentre.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryAgent\\CommandCentre.cs",
+              "RelativeDocumentMoniker": "ClassLibraryAgent\\CommandCentre.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryAgent\\CommandCentre.cs",
+              "RelativeToolTip": "ClassLibraryAgent\\CommandCentre.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:19:07.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Aircraft.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryAgent\\Aircraft.cs",
+              "RelativeDocumentMoniker": "ClassLibraryAgent\\Aircraft.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryAgent\\Aircraft.cs",
+              "RelativeToolTip": "ClassLibraryAgent\\Aircraft.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:18:15.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ConsoleAppChain\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppChain\\Program.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ConsoleAppChain\\Program.cs",
+              "RelativeToolTip": "ConsoleAppChain\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:15:57.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ThirdLevelSupport.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryChain\\ThirdLevelSupport.cs",
+              "RelativeDocumentMoniker": "ClassLibraryChain\\ThirdLevelSupport.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryChain\\ThirdLevelSupport.cs",
+              "RelativeToolTip": "ClassLibraryChain\\ThirdLevelSupport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:15:16.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SupportSystem.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryChain\\SupportSystem.cs",
+              "RelativeDocumentMoniker": "ClassLibraryChain\\SupportSystem.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryChain\\SupportSystem.cs",
+              "RelativeToolTip": "ClassLibraryChain\\SupportSystem.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:14:55.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SupportHandler.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryChain\\SupportHandler.cs",
+              "RelativeDocumentMoniker": "ClassLibraryChain\\SupportHandler.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryChain\\SupportHandler.cs",
+              "RelativeToolTip": "ClassLibraryChain\\SupportHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:14:32.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SecondLevelSupport.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryChain\\SecondLevelSupport.cs",
+              "RelativeDocumentMoniker": "ClassLibraryChain\\SecondLevelSupport.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryChain\\SecondLevelSupport.cs",
+              "RelativeToolTip": "ClassLibraryChain\\SecondLevelSupport.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:14:12.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FourthLevelSupport.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryChain\\FourthLevelSupport.cs",
+              "RelativeDocumentMoniker": "ClassLibraryChain\\FourthLevelSupport.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryChain\\FourthLevelSupport.cs",
+              "RelativeToolTip": "ClassLibraryChain\\FourthLevelSupport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:13:44.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FirstLevelSupport.cs",
+              "DocumentMoniker": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryChain\\FirstLevelSupport.cs",
+              "RelativeDocumentMoniker": "ClassLibraryChain\\FirstLevelSupport.cs",
+              "ToolTip": "D:\\TechPrakt2025Task0\\lab-4\\Lab4_KPZ\\ClassLibraryChain\\FirstLevelSupport.cs",
+              "RelativeToolTip": "ClassLibraryChain\\FirstLevelSupport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:12:53.559Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

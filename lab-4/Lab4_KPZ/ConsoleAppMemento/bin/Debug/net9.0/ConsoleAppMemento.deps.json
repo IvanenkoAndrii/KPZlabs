@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ConsoleAppMemento/1.0.0": {
+        "dependencies": {
+          "ClassLibraryMemento": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleAppMemento.dll": {}
+        }
+      },
+      "ClassLibraryMemento/1.0.0": {
+        "runtime": {
+          "ClassLibraryMemento.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppMemento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryMemento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

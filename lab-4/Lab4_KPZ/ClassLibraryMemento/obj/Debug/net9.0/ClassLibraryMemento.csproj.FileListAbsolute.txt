@@ -1,0 +1,12 @@
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryMemento\bin\Debug\net9.0\ClassLibraryMemento.deps.json
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryMemento\bin\Debug\net9.0\ClassLibraryMemento.dll
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryMemento\bin\Debug\net9.0\ClassLibraryMemento.pdb
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryMemento\obj\Debug\net9.0\ClassLibraryMemento.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryMemento\obj\Debug\net9.0\ClassLibraryMemento.AssemblyInfoInputs.cache
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryMemento\obj\Debug\net9.0\ClassLibraryMemento.AssemblyInfo.cs
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryMemento\obj\Debug\net9.0\ClassLibraryMemento.csproj.CoreCompileInputs.cache
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryMemento\obj\Debug\net9.0\ClassLibraryMemento.sourcelink.json
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryMemento\obj\Debug\net9.0\ClassLibraryMemento.dll
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryMemento\obj\Debug\net9.0\refint\ClassLibraryMemento.dll
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryMemento\obj\Debug\net9.0\ClassLibraryMemento.pdb
+D:\TechPrakt2025Task0\lab-4\Lab4_KPZ\ClassLibraryMemento\obj\Debug\net9.0\ref\ClassLibraryMemento.dll
